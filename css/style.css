@@ -1,0 +1,26 @@
+#mobile-display-carousel .mobile-display-carousel-indicators{
+	margin-top: 160%;
+	top: auto;
+	bottom: auto;
+}
+
+#mobile-display-carousel .mobile-border{
+	position: absolute;
+	z-index: 1;
+	margin-top: 0%;
+	margin-left: 0%;
+	margin-right: 0%;
+	/* max-width: 494px; */
+}
+
+#mobile-display-carousel .carousel-inner{
+	position: absolute;
+	margin-top: 22%;
+	margin-left: 11%;
+	margin-right: 11%;
+	width: 78%;
+}
+
+#mobile-display-carousel .carousel-inner .item img{
+	width: 100%;
+}
